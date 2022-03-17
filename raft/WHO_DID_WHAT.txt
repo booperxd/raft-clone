@@ -1,0 +1,13 @@
+Cooper - Leader
+
+Logan - Candidate
+
+Sam - Follower
+
+Everyone - RPC methods in RaftNode and RaftRPC, 
+                data classes (Persist, LogEntry, LogEntry, AppendMessage)
+
+
+Again, even though we understand git more than the last projects, 
+we usually had one writer while we all worked together. 
+Our GitHub is not indicative of the group effort.
